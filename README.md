@@ -1,4 +1,4 @@
 # Enterprise-spring
 
-Slides: goo.gl/6KNDKQ
+Slides: [https://goo.gl/6KNDKQ](https://goo.gl/6KNDKQ)
 
